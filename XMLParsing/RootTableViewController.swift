@@ -119,9 +119,4 @@ class RootTableViewController: UITableViewController, XMLParserDelegate {
         //데이터 출력
         self.navigationController?.pushViewController(detailViewController, animated: true)
     }
-    
 }
-
-//*extension을 이용하는 경우
-//extension RootTableViewController : XMLParserDelegate{
-//}

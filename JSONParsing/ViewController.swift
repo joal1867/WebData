@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  JSONParsing
-//
-//  Created by Joal on 19/11/2018.
-//  Copyright © 2018 Joal. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
